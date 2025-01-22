@@ -52,3 +52,22 @@
 | [A Two-Wheeled Self-Balancing Robot with Dynamics Model](https://ieeexplore.ieee.org/abstract/document/8255365)       | PID, Kalman Filtering             | Kalman filter outperforms complementary filters for stability but is more complex.                                                                      | Optimize sensor fusion and PID tuning.                                       |
 | [Building a Two-Wheeled Balancing Robot](https://sear.unisq.edu.au/6168/)                      | Inverted Pendulum Model           | Details the design, hardware, and software implementation with performance evaluation.                                                                   | Focus on performance improvement and future research.                         |
 | [A Two-Wheeled Self-Balancing Robot with the Fuzzy PD Control Method](https://onlinelibrary.wiley.com/doi/full/10.1155/2012/469491)     | Fuzzy PD                          | Fuzzy PD control effectively maintains balance and enhances system performance.                                                                          | Focus on cost-effective solutions with low-cost components.                  |
+
+
+
+# Gaps
+
+Focus on traditional control methods like PID and LQR, with limited use of adaptive or AI-driven techniques.
+
+Lack of solutions for dynamic adaptability in uneven terrain or varying payload conditions.
+
+Minimal integration of advanced sensor technologies like LiDAR or cameras for improved perception.
+
+Absence of standardized benchmarks for performance evaluation and comparison.
+
+Emphasis on single-task functionality, with limited exploration of multi-tasking or autonomous navigation.
+
+Insufficient focus on balancing cost and performance for scalable, real-world applications.
+
+
+
